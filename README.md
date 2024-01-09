@@ -1,4 +1,4 @@
-# Full-Microsoft-Excel-Project
+# FULL EXCEL PROJECT : Customer Shopping Data
 
 Customer Shopping Data
 -	The objective of this project was to demonstrate my proficiency in Microsoft Excel for data analysis tasks.
